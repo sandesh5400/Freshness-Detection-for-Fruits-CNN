@@ -1,0 +1,7 @@
+,freshapples,freshbanana,freshoranges,rottenapples,rottenbanana,rottenoranges
+freshapples,393,0,1,1,0,0
+freshbanana,0,381,0,0,0,0
+freshoranges,0,0,380,0,0,8
+rottenapples,35,2,9,518,15,22
+rottenbanana,0,1,0,0,529,0
+rottenoranges,0,0,15,1,1,386

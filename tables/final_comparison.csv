@@ -1,0 +1,4 @@
+Model,Accuracy,F1-Score,Training Time (s),Parameters,Grad-CAM Quality,SHAP Interpretability,Overall Finding
+Custom CNN,0.9589,0.9601,500.1,259526,,,
+MobileNetV2,0.9956,0.9952,726.2,2265670,,,
+ResNet50,0.9978,0.9978,830.9,23600006,,,

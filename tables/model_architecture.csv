@@ -1,0 +1,4 @@
+Model,Input Size,Total Params,Trainable Params (head),Layers,Output Classes
+Custom CNN,224x224x3,259526,258822,17,6
+MobileNetV2,224x224x3,2265670,7686,157,6
+ResNet50,224x224x3,23600006,12294,178,6
